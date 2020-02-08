@@ -1,10 +1,10 @@
 ---
 layout: archive
-permalink: /sofware-projects/
-title: "Software Projects"
+permalink: /software-projects/
+title: "Software Projects  Posts by Tags"
 author_profile: true
 header:
-#  image: "/images/imageiwant.jpg"
+  image: "images/new.jpg"
 ---
 
 {% include base_path %}

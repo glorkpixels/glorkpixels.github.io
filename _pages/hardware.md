@@ -1,10 +1,10 @@
 ---
 layout: archive
 permalink: /hardware-projects/
-title: "Hardware Projects"
+title: "Hardware Projects Posts by Tags"
 author_profile: true
 header:
-#  image: "/images/imageiwant.jpg"
+  image: "images/new.jpg"
 ---
 
 {% include base_path %}

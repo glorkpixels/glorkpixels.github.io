@@ -1,7 +1,8 @@
 ---
-layout: archive
+layout: posts
 permalink: /hardware-projects/
-title: "Hardware Projects Posts by Tags"
+title: "Hardware Projects"
+author_profile: true
 header:
-  image: "images/new.jpg"
+    image: "images/new.jpg"
 ---

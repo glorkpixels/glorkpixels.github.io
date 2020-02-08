@@ -1,7 +1,8 @@
 ---
-layout: archive
+layout: posts
 permalink: /software-projects/
-title: "Software Projects  Posts by Tags"
+title: "Software Projects"
+author_profile: true
 header:
-  image: "images/new.jpg"
+    image: "images/new.jpg"
 ---

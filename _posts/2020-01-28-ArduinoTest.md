@@ -4,8 +4,8 @@ date: 2020-01-28
 tags: [test , GitHub, portfolio, software, Software, Software Projects]
 header:
   image: "/images/test/test.jpg "
-excerpt: "Test, GitHub, Portfolio , Software Projects"
----it
+excerpt: "Test, GitHub, Portfolio , Software Projects, software-projects"
+---
 
 # H1 TEST
 ## H2 TEST

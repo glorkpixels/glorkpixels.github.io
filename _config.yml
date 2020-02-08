@@ -111,7 +111,7 @@ author:
   avatar           : "images/bio-photo.jpg"
   bio              : "Hello and welcome to my portfolio page."
   location         : "İzmir-Turkey"
-  email            :
+  email            : "mehmet.hamdi96@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

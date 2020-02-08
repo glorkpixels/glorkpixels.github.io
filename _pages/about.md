@@ -1,8 +1,7 @@
 ---
 title: "About"
-layout: single
 permalink: /about/
 header:
-  image: "/images/bio-photo.jpg"
+  image: "/images/wide-angle.jpg"
 ---
 Hello there! This is my portfolio

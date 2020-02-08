@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mehmet's Portfolio"
+title                    : " My Portfolio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Glorkpixels"
-description              : "An amazing website."
+description              : "portfolio of mehmet hamdi uslu."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Mehmet Hamdi USLU"
   avatar           : "images/bio-photo.jpg"
-  bio              : "Hello welcome to my portfolio page."
+  bio              : "Hello and welcome to my portfolio page."
   location         : "İzmir-Turkey"
   email            :
   links:
@@ -296,3 +296,10 @@ defaults:
       comments: # true
       share: true
       related: true
+  #_pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true

@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Mehmet Hamdi USLU"
   avatar           : "images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Hello welcome to my portfolio page."
   location         : "İzmir-Turkey"
   email            :
   links:
@@ -131,6 +131,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/glorkpixels"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linked-in"
+      url: "https://www.linkedin.com/in/mehmet-hamdi-uslu/"
 
 # Site Footer
 footer:

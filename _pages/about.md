@@ -1,5 +1,6 @@
 ---
 title: "About"
+layout: single
 permalink: /about/
 header:
   image: "/images/bio-photo.jpg"

@@ -108,14 +108,14 @@ analytics:
 # Site Author
 author:
   name             : "Mehmet Hamdi USLU"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "İzmir-Turkey"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:mehmet.hamdi96@gmail.com
+      url: "mailto:mehmet.hamdi96@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -130,7 +130,7 @@ author:
       url: "https://github.com/glorkpixels/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/glorkpixels"
 
 # Site Footer
 footer:

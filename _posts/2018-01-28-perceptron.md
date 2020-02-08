@@ -1,10 +1,10 @@
 ---
-title: "Data Wrangling Project"
+title: "Software Projects"
 date: 2018-01-28
-tags: [data wrangling, data science, messy data, Software Projects]
+tags: [Software Projects, data science, messy data, Software Projects]
 header:
-  image: "/images/perceptron/percept.jpg"
-excerpt: "Hardware Projects, Data Science, Messy Data, Software Projects"
+  image: "/images/test.jpg"
+excerpt: "Software Projects, Data Science, Messy Data"
 
 ---
 

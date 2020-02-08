@@ -1,10 +1,10 @@
 ---
 title: "Blabla Hardware Projects"
 date: 2020-01-28
-tags: [test , GitHub, portfolio, software, Software, Hardware Projects]
+tags: [test , GitHub, Portfolio, Hardware Projects]
 header:
-  image: "/images/test/test.jpg "
-excerpt: "Test, GitHub, Portfolio , Software Projects, software-projects"
+  image: "/images/wide-angle.jpg "
+excerpt: "Test, GitHub, Portfolio ,"
 ---
 
 # H1 TEST

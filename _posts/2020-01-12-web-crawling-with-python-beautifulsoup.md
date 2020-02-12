@@ -16,4 +16,4 @@ that take it takes the info requested and showcase them on mathplotlibplot. Outp
 
 
 
-![Image of Output](https://github.com/glorkpixels/glorkpixels.github.io/blob/master/images/soup/charts.png?raw=true")
+![Image of Output](https://raw.githubusercontent.com/glorkpixels/glorkpixels.github.io/master/images/soup/charts.png)

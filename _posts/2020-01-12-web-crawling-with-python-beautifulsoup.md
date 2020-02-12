@@ -12,8 +12,6 @@ excerpt: "Software Projects, Data Science, Messy Data"
 
 This was a beginner assignment to introduce us to Python and Web Crawling, we were assigned to go to a website below which is a specific and random company stock market info from
 
-that take it takes the info requested and showcase them on mathplotlibplot. Output image can be seen below.
+that take it takes the info requested and showcase them on mathplotlib. Output image can be seen below.
 
-
-
-![Image of Output](https://raw.githubusercontent.com/glorkpixels/glorkpixels.github.io/master/images/soup/charts.png)
+![YOLO](/images/soup/charts.png)

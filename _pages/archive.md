@@ -1,7 +1,7 @@
 ---
 layout: posts
-permalink: /hardware-projects/
-title: "Hardware Projects"
+permalink: /archive-of-projects/
+title: "Archive"
 author_profile: true
 header:
     image: "images/test.jpg"

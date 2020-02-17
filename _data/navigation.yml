@@ -1,11 +1,12 @@
 # main links
 main:
-  - title: "Hardware Projects"
-    url: /hardware-projects/
-  - title: "Software Projects"
-    url: /software-projects/
+
+  - title: "My Resume"
+    url: "https://docs.google.com/viewer?url=https://github.com/glorkpixels/glorkpixels.github.io/raw/master/images/Mehmet%27s%20Resume%20.pdf"
   - title: "About"
     url: /about/
+  - title: "Archive"
+    url: /archive-of-projects/
   # title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

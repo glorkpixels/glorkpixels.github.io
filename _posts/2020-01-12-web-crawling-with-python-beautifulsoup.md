@@ -4,7 +4,7 @@ date: 2020-01-12
 tags: [Software Projects, python, web , crawling , numpy , mathplotlib]
 header:
   image: "/images/test.jpg"
-excerpt: "Software Projects, Data Science, Messy Data"
+excerpt: " python, web , crawling , numpy , mathplotlib"
 
 ---
 
